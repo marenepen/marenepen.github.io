@@ -1,3 +1,42 @@
+<html>
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  background-color:#A18167;
+</style>
+}
+
+li a {
+   color: #000000;
+}
+
+</head>
+<body>
+
+<ul>
+  <li><a href="#index">Home</a></li>
+  <li><a href="#binairstelsel">News</a></li>
+  <li><a href="#kleurenmodellen">Contact</a></li>
+  <li><a href="#afbeeldingenengeluid">About</a></li>
+</ul>
+    
+
+
+
+
 body{
 
     color:#ecd9c6
