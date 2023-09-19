@@ -48,8 +48,8 @@
 {
     position: relative;
     float: left;
-    height: 30px;
-    width: 150px;
+    height: 50px;
+    width: 200px;
     background: #bf2fd2;
 }
 .top-level-menu > li:hover { background: #800496; }
