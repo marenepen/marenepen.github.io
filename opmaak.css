@@ -6,7 +6,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #910093;  /* de achtegrond kleur van de balk wordt hierdoor zwart*/
+    background-color: #910093;  /* de achtegrond kleur van de balk wordt hierdoor paars*/
   }
   
   li {
@@ -15,7 +15,7 @@ ul {
   
   li a {
     display: block;
-    color: rgb(245, 135, 247); /* de tekst kleur is hierdoor blauw geworden*/
+    color: rgb(245, 135, 247); /* de tekst kleur is hierdoor licht paars geworden*/
     text-align: center;
     padding: 14px 16px; /* dit zorgt voor de grootte van de balk*/ 
     text-decoration: none;
