@@ -62,21 +62,21 @@ body {
 
 .top-level-menu li:hover > ul
 {
-    /* On hover, display the next level's menu */
+    
     display: inline;
 }
 
 
-/* Menu Link Styles */
 
-.top-level-menu a /* Apply to all links inside the multi-level menu */
+
+.top-level-menu a  
 {
     font: bold 14px Arial, Helvetica, sans-serif;
     color: #540869;
     text-decoration: none;
     padding: 0 0 0 10px;
 
-    /* Make the link cover the entire list item-container */
+   
     display: block;
     line-height: 30px;
 }
